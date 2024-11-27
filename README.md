@@ -25,12 +25,12 @@
 
 ### 📊 Estatísticas
 
-<div height="200" width="300">
+<p>
   <img 
-    align="left" alt="GitHub Stats" height="190" style="padding-right: 10px;" 
+    align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=andrwza&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br"/>
 
   <img 
     align="left" alt="GitHub Stats" height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrwza&theme=bear&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+</p>

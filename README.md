@@ -25,7 +25,7 @@
 
 ### 📊 Estatísticas
 
-<div>
+<div  height="200">
   <img 
     align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=andrwza&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br"/>

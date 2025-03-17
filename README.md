@@ -1,6 +1,6 @@
 ### Andreza Damasceno
 
-<p>Me chamo Andreza Damasceno, tenho 18 anos. Sou formada no curso técnico em informática pelo IFSP e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.</p>
+<p>Me chamo Andreza Damasceno, tenho 18 anos. Sou formada no curso técnico em informática e atualmente curso Tecnologia em Sistemas para Internet, ambos pelo IFSP</p>
 
 ### 
 

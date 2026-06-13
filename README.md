@@ -7,4 +7,4 @@ Systems for Internet Graduate [IFSP](https://www.ifsp.edu.br/);<br>
   
 <hr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,c,cpp,dart,ae&perline=10&spacing=60" height="35" /> <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,c,cpp,dart,ae&perline=10&spacing=60" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="35" />

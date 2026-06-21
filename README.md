@@ -4,7 +4,3 @@ IT Assistant at [Savencia](https://www.savenciabrasil.com.br/);<br>
 Systems for Internet Graduate [IFSP](https://www.ifsp.edu.br/);<br>
 
 - 💭 Daily work with `IT support` and `infrastructure`
-  
-<hr>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,c,cpp,dart,ae&perline=10&spacing=60" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="35" />

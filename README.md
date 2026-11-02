@@ -1,15 +1,11 @@
 ### ✦ about
 
 IT Technician & Internet Systems Graduate at [IFSP](https://www.ifsp.edu.br/)<br>
-- 💭 Daily work with `IT support` and `infrastructure` as an IT Assistant <br>
+- 💭 Daily work with `IT support` and `infrastructure`<br>
 
 ### ✦ tech stack
 
 `HTML` ・ `CSS` ・ `JavaScript` ・ `Java` ・ `Python` ・ `MySQL` ・ `Git`
-
-### ✦ projects
-
-♡ [**Rota Solidária**](https://github.com/seu-usuario/rota-solidaria): blood donation trips organized by NGOs<br>
 
 ### ✦ contact
 

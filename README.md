@@ -9,4 +9,4 @@ Daily work with `IT support` and `infrastructure`<br>
 
 ### ✦ contact
 
-[portfolio](https://github.com/andrwza) ・ [linkedin](www.linkedin.com/in/andrezafdamasceno06) ・ [lattes](http://lattes.cnpq.br/1534399405644841)
+[github](https://github.com/andrwza) ・ [linkedin](www.linkedin.com/in/andrezafdamasceno06) ・ [lattes](http://lattes.cnpq.br/1534399405644841)
